@@ -124,3 +124,7 @@ main {
 .attribution a { 
   color: var(--neon-green);
 }
+
+.attribution a:hover {
+  box-shadow: 0 0 10px 1px var(--neon-green);
+}
